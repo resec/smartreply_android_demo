@@ -90,7 +90,7 @@ public class SmartReplyService extends Service {
                     }
                     final long start = System.currentTimeMillis();
                     Map<Sentiment, String> replyMap;
-                    final int iter = 100;
+                    final int iter = 10;
                     for (int i = 0; i < iter; i++) {
                         replyMap = smartReplyer.reply(content);
                     }

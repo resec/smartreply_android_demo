@@ -75,8 +75,8 @@ public class MainActivity extends Activity {
                 smartReplyService.send(msg);
             } catch (RemoteException e) {}
 
-            test();
-            //demo(random.nextInt(examples.length), false);
+            //test();
+            demo(random.nextInt(examples.length), false);
         }
 
         public void onServiceDisconnected(ComponentName className) {
