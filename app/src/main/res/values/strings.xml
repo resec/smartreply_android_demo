@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">SmartReplyDemo</string>
+    <string-array name="examples">
+        <item>Shuhao- Please update our bank account for Google Play console. I did it for itunes. We are moving from svb to coamerica. Paul has sent all the info you need below..</item>
+        <item>The usps.com priority mail tracking number is: 9505 5126 3059 7137 0755 21 (expected delivery date is May 19, 2017, Friday). Thank you!</item>
+        <item>Dear Ju and Shuhao, Attached is the floor plan for 6954 Riverside Lane. Thank you.</item>
+        <item>Hi, I\'m Shubhra and I am making a chrome extension similar to the one you made and I just had a few questions on you “main.js” file for the smart reply (more specifically on creating and populating ""rightSideContainer""), if you would let me know when would be a good time to reach out that would be awesome.</item>
+        <item>Hi Neeli,\n     I need to go to the hospital to see a doctor for fever. I will be back to office after .\n    Thanks.</item>
+        <item>My girlfriend have bad fever. I need PTO on friday.</item>
+        <item>I think I have everything cleaned up except the messages issue we were going to strategize on. It\'s all posted to the Dev site - nothing has been moved to the Live site yet.\n \n \n \nI\'m going to disappear for a couple hours.\n \n \n \nLet me know what you want to talk about what\'s next.\n \n \n \n thanks,</item>
+        <item>Let me know if you are not interested in receiving these updates.</item>
+        <item>Hi, Kyle. Is there any way I can come in at some point in the week to talk about my degree?</item>
+        <item>My daughter is having bad fever,  I am taking her to hospital,  will WFH in the afternoon.</item>
+        <item>Had to delay upload. I had some issues with sync with local assets. I had to un-publish every scene and sync it back to remove conflicts.\n \nAlmost pulled my hairs out  today.\n \n\n \nFor games ending at blue screen - I have made some changes in code, It shd handle it better.\n \n\n \nUploading and Submitting.</item>
+        <item>They finally came through with the contract.\n\nI expect the work to start tomorrow.\nSorry for all the delays.\n</item>
+        <item>Can you do this?</item>
+        <item>Please approve the payroll? \n\n</item>
+        <item>Shall we meet tomorrow morning?</item>
+        <item><Data><![CDATA[\n\n\n\nHi Shuhao,\nAny plan to add iCloud email account support back in to the product? We’ve gotten complaints from users and would like to be able to support iCloud.\n\r\n--\nBest Regards, \nGuibin\r\nsent from my blackberry\n\n"]]></Data></item>
+        <item><Data><![CDATA[Any plan to add iCloud email account support back in to the product? We’ve gotten complaints from users and would like to be able to support iCloud.\n\r\n--\nBest Regards, \nGuibin]]></Data></item>
+        <item><Data><![CDATA[\n\n\n\nHi Shuhao,\nAny plan to add iCloud email account support back in to the product? We’ve gotten complaints from users and would like to be able to support iCloud.\n\r\nSent from my iPhone\n\n]]></Data></item>
+        <item><Data><![CDATA[\n\n\n\nHi Shuhao,\nAny plan to add iCloud email account support back in to the product? We’ve gotten complaints from users and would like to be able to support iCloud.\n\r\n\nGuibin\r\n\n]]></Data></item>
+    </string-array>
+    <string-array name="examples_sender">
+        <item>noone</item>
+        <item>noone</item>
+        <item>noone</item>
+        <item>noone</item>
+        <item>noone</item>
+        <item>noone</item>
+        <item>noone</item>
+        <item>noone</item>
+        <item>noone</item>
+        <item>noone</item>
+        <item>noone</item>
+        <item>noone</item>
+        <item>noone</item>
+        <item>noone</item>
+        <item>noone</item>
+        <item>Guibin</item>
+        <item>Guibin</item>
+        <item>Guibin</item>
+        <item>Guibin</item>
+    </string-array>
+    <string-array name="examples_recipients">
+        <item>nobody,noone,nonono</item>
+        <item>nobody,noone,nonono</item>
+        <item>nobody,noone,nonono</item>
+        <item>nobody,noone,nonono</item>
+        <item>nobody,noone,nonono</item>
+        <item>nobody,noone,nonono</item>
+        <item>nobody,noone,nonono</item>
+        <item>nobody,noone,nonono</item>
+        <item>nobody,noone,nonono</item>
+        <item>nobody,noone,nonono</item>
+        <item>nobody,noone,nonono</item>
+        <item>nobody,noone,nonono</item>
+        <item>nobody,noone,nonono</item>
+        <item>nobody,noone,nonono</item>
+        <item>nobody,noone,nonono</item>
+        <item>Shuhao</item>
+        <item>Shuhao</item>
+        <item>Shuhao</item>
+        <item>Shuhao</item>
+    </string-array>
+    <string-array name="bad_examples">
+        <item><Data><![CDATA["u5411\\u4ee5\\u4e0b\\u6536\\u4ef6\\u4eba\\u6216\\u7ec4\\u4f20\\u9012\\u90ae\\u4ef6\\u5931\\u8d25:\\nEasilyDo (easilydo@aol.com)\\u2028\\u4f60\\u7684\\u90ae\\u4ef6\\u672a\\u9001\\u8fbe\\uff0c\\u56e0\\u4e3a\\u6536\\u4ef6\\u4eba\\u7684\\u90ae\\u4ef6\\u63d0\\u4f9b\\u7a0b\\u5e8f\\u62d2\\u7edd\\u4e86\\u5b83\\u3002\\u2028\\u2028\\n\\n\\n\\n\\n\\n\\n\\u4f9b\\u7ba1\\u7406\\u5458\\u4f7f\\u7528\\u7684\\u8bca\\u65ad\\u4fe1\\u606f:\\n\\u751f\\u6210\\u670d\\u52a1\\u5668: HKNPR02MB0513.apcprd02.prod.outlook.com\\u2028\\neasilydo@aol.com\\u2028Remote Server returned \\'550 5.7.501 Access denied, spam abuse detected. For more information please go to http://go.microsoft.com/fwlink/?LinkId=526653\\'\\u2028\\n\\u539f\\u59cb\\u90ae\\u4ef6\\u5934:\\nAuthentication-Results: aol.com; dkim=none (message not signed)\\n header.d=none;aol.com; dmarc=none action=none\\n header.from=edo12.onmicrosoft.com;\\nReceived: from HKNPR02MB1889.apcprd02.prod.outlook.com (10.141.36.147) by\\n HKNPR02MB0513.apcprd02.prod.outlook.com (10.242.103.27) with Microsoft SMTP\\n Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id\\n 15.1.1220.11; Wed, 5 Jul 2017 02:31:37 +0000\\nReceived: from HKNPR02MB1889.apcprd02.prod.outlook.com\\n ([fe80::2d54:5a11:a3c4:f8d5]) by HKNPR02MB1889.apcprd02.prod.outlook.com\\n ([fe80::2d54:5a11:a3c4:f8d5%18]) with mapi id 15.01.1220.015; Wed, 5 Jul 2017\\n 02:31:37 +0000\\nContent-Type: application/ms-tnef; name=\\\"winmail.dat\\\"\\nContent-Transfer-Encoding: binary\\nFrom: jing zhou <jing@edo12.onmicrosoft.com>\\nTo: EasilyDo <easilydo@aol.com>\\nSubject: Re: Reply then Archive 18-18\\nThread-Topic: Reply then Archive 18-18\\nThread-Index: AQHS9TbT9P14jkUMS0ukcWmhQM6PJg==\\nDate: Wed, 5 Jul 2017 02:31:37 +0000\\nMessage-ID: <c26c0a5c-86d9-47ba-9a69-7500ff95cf83@Jings-iPhone>\\nAccept-Language: zh-CN, en-US\\nContent-Language: en-US\\nX-MS-Has-Attach:\\nX-MS-TNEF-Correlator: <c26c0a5c-86d9-47ba-9a69-7500ff95cf83@Jings-iPhone>\\nMIME-Version: 1.0\\nX-Originating-IP: [199.116.114.202]\\nX-MS-PublicTrafficType: Email\\nX-Microsoft-Exchange-Diagnostics: 1;HKNPR02MB1889;35:t34TYunnEjYj/RLsUrPXWqavlUFM5ELAl1kxzIetjJRyI/B6LXukL8FHGUMAMNzfcNwabjgpt/xICN22W18iKO9WKSByWIUkCCfK/8I05yArHNiL9dBn1gOYburluko9\\nReturn-Path: jing@edo12.onmicrosoft.com\\nX-MS-Office365-Filtering-Correlation-Id: 224a8193-e0d1-47d2-3ba1-08d4c34df650\\nX-Microsoft-Antispam:\\nUriScan:;BCL:0;PCL:0;RULEID:(300000500095)(300135000095)(300000501095)(300135300095)(22001)(300000502095)(300135100095)(2017030254075)(300000503095)(300135400095)(2017052603031)(2017052602031)(201703131423075)(300000504095)(300135200095)(300000505095)(300135600095)(300000506095)(300135500095);SRVR:HKNPR02MB0513;\\nX-Microsoft-Exchange-Diagnostics:\\n1;HKNPR02MB0513;3:zcnEEBJAy2QRCTUjiRwEQIEg2Uf+1NS04JHEh7RG1UtyekvTC+/S/i8ZpL0vv8n5TvF1YG2wrJtDhBc8BzP5nSqpru5sEq9g5WpvHV0XXN9H7J0zyL7AzZLbZGZkWPCmxNn9PP+7crkPrRDPOpV0z/qP3GIHzyprwyyflQELi7uFT9M1vvblVomdaDDLWppORS+bw1LgYSugWHhCXY6Sd6zggpnQbLllolPIPjdXEXgE9kJde+GOE02WhOyffWUS+LjeDZbqXuBmVDOV1hE3zbpy+xd3fch+SmQuvK2qBRoV3fFS/j2OoslKIgBixvkj/YCIVnahndIu1EPlrCgq3XaHaGJBQU7lj3aJVuq41BN/zQrRjybRoroA7YrmjYtfc+95te/Z1evGn9Af1/qEQq8XrNx+ku4nUqNK2ICqQfUTO0mvbIhX1Whc7G6wSv3mH9nsVm8tdcHDW8/Ke5ZtLdXu9WmVsTMh2rh9rTeIuvEb5yqzPfBx1Q0dsAX1nPX1KH+1ysDJFA16ufuaNJ4aZA9BTB1lgqoostOgXxcpV4P1XnfIkQ1cpcdrFFbbDxa7bLvnDUPcdWAiAX6+LhaPoUrQ9VvyIAzYiRIdJ2u9ff85UqCj3VLuX/8wWEyvTP8PoyHke9G8aMZsfcFqHs1MvJj5Q8dxEfiH1T2/vglr9mbO4LDIOGP09oKWi4FW9tdXMs17kC3H23Gxl3Myk9RpmTRx7K/PzfURxJtB68nY0e+QrhzGFQtKT2t/wSAEc9DkNRUehyQxOvindVs4d8Q+l0XbK5CTSC4D3AW/zSdIiR4=\\nX-MS-TrafficTypeDiagnostic: HKNPR02MB0513:\\nX-Microsoft-Exchange-Diagnostics:\\n1;HKNPR02MB0513;25:BY/a9TDzCjBZ8LJXLgjRXV+YC1bnGH4QzuLiSaGq7GsEuurQSap6kUJEi0oJ1lcco1uhHK/Z8mcSp6CyW8gb8FILRS3kTvLt8Yf4bTjivI/9D3y8j1YQ1WK+xZkoAua8ZUq8PcH/ny3r9xgyReGHBSG3zMNOsFw2p4EhJ4yAx1ljbNCa6X1XCx1yPG4Z+zumG8X4A95kff4pcucWMi1uzJ2rD/x3y1BKUe6c/JO8ToP/r4kdVvuE3y/XymV/FgmL2vBZU91yR5vrFORlvTbrwV/wakp78i0v4I5ueQ8r6MzWWhxqFjHQ1hoO6da1MqhPQWXxPA1yOzO1I1pedHjbbCArH7kPOySevmybi5o3M5VNCtQrUOmDoOpG3t8gQB4EWufyIfR9VlIkJoISGZ+nwPGOMSx2mxwEzT1xAJTwO5h8fYZdlLrk0W+2KzbXiiLket55Ejo9Q7/qrHqwWIx/PW7pPY7vR2aHm5rro00tKSda9MZdUEUUdkcqBRXxm3gGMIvLHsPbyubHGWQNQy4l57eNETLbot4GR6Zcbe2/7/ndr7RcDy4EbJzVVxn0suR7CJyQmcRUZ/2js+9Ag4eVTc5YSRpi6J6YnS14UzVZ28RiSKsd3Hgv2dCYX1OPOx5BEhtbNkk7tr6ljcpMvdYAO+tDdQg0hOLqeTn8G868+XGaqK0tgjRScY+SP4q7zwb3RqFvasFqAjzEIdal59mlz32Rqxxc3GvsoP/lbw0fFSGQYX6SneW5SsDBO0Y9rv1wZwKd65y3rsTdWRu4eJ2cpWdVPdhaMKQrRoiVbP2V3YYZMq+EZ9UlTnBrAxycpLGf7xS2ug5nTUei4YuvkkqSdM448L8nGdpUS7BoS7tTzaAeA5dxbUXHG/QdfMFJcM5GXWepr+kwBnDqO4A7WeTP8KvgdjkKimyc7N82pL31ApI=\\nX-Microsoft-Exchange-Diagnostics:\\n1;HKNPR02MB0513;31:5Oe2y1b8ztUnE1tvfnEJLg88Ds9PjrLw0f6JpmpbCtmhngHKOSv1SDzy7EZPvDYDlOMehzz5N+/km/2TSxK71rpOgqqtLUaa2ZtORy1/h7dVtCQJ6A3mAkAnxwQwlD6+iG8BKK5t71OfCvq4BdA94ACm1sUVxoTeLKo0ErudjLPEWGo6X40pgn+T/ZtlqAEOdHZ5yOORwXZLwwNWxnjFg3kuys8DATjtyqQCUsgCiIkXPabMISj1VJUmJOVZoZrQx+wjzSftEJelQ2aH2z5vJdfUjv2WzEMYoEun6KNfvL+pXwzgGWnCtqRt+kZWXuPvNRwce+yNIggk1agDp/8hiRQLRIiZv3pPq5BMoXdPXH6DBHNNRsO5ZJLkDlYmEoQRGM7LEBpsNkH99KokuCAR0RHkSkVMVXBT89Y5Qi4RLg6eQNzkie06geQmFKuKv8MzrRW0zEozymt19SjJbsy2BqAhQFZprbbbxOaNkQCxluXhEak15LA+L9xBsXCnLdebzUt2rLpJF2lGVaOJMGs/IPxiPhZ5fewO6aBJ5cB2uo9BwM1gOy28+NxIWHcFJnkmHGNjC76tO3bNFcJwX96K5ByB4h5CK/Ks1uweurmnBHEwtFh2PxC6aZ2Oks+jUOYqVYhiKl8lqtoLrqnOQ4vImPmmjfR1QgYpyqskxuWyfGQmVzdYAPksEZ5ajGu4bY4uELpcDSaXJIJrfUFL929zSA==\\nX-Microsoft-Antispam-PRVS:\\n<HKNPR02MB0513C5C8F2FBF21AAFB8FFCF89D40@HKNPR02MB0513.apcprd02.prod.outlook.com>\\nX-Exchange-Antispam-Report-Test:\\nUriScan:(149059832740258)(236129657087228)(90097320859284)(209349559609743);\\nX-Exchange-Antispam-Report-CFA-Test:\\nBCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(6040450)(601004)(2401047)(5005006)(8121501046)(2017060910033)(10201501046)(100000703101)(100105400095)(93006095)(93001095)(3002001)(6000006)(6002118)(6041248)(201703131423075)(201703031522075)(201702281528075)(201703061421075)(20161123560025)(20161123555025)(2016111802025)(20161123564025)(20161123562025)(20161123558100)(6072148)(6043046)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:HKNPR02MB0513;\\nX-Microsoft-Exchange-Diagnostics:\\n=?us-ascii?Q?1;HKNPR02MB0513;4:N42u+MuM8dB0EBgCiYBmcjBuSUpp2q+m0zmnpsOFeV?=\\n =?us-ascii?Q?A6CKjHOydinKbIFGkG2Dyj+GZeOeQJTnSaufncUyoL2czxx0k7GtTivLzqPi?=\\n =?us-ascii?Q?+/sWMKcv7XToWCjM/dTpEbnqd2ETcJ8b/QgYvAnslWvArymvUua36r6CYfqc?=\\n =?us-ascii?Q?1pF91N6V7bWxAJA/CUrdZwFvzxxVFdN0Fhk30TEawfFo4Zu7U7FO431bEa22?=\\n =?us-ascii?Q?4GcZk6Tcm5RwSfVsVDO86OdUyZ4ryK+a5m8UVBkOtpVJcdNaVM6opb16t3r7?=\\n =?us-ascii?Q?u5yq2hWOeZL3/8FV1UFHKaj+qt0X4z4WsqnX/5b1Mn9jyELL/W2KyfjQGAic?=\\n =?us-ascii?Q?vHJsE4ofYVQGvrd4rT0MaBhSSeXcD46YrDQQZq2cQ+Q47riDZs+4mOYu+dvz?=\\n =?us-ascii?Q?AtTkxUh8BXTPxbL2kk9NR5pMxcfT+cjNfA5lMGCHxmIYFO0T/UgVhyH387Bh?=\\n =?us-ascii?Q?lvZnvV4Bw5k8LFMnsNY4KjQskILQCgfNGjqNQGuFrBnc/QOtZRqwovhUqGsW?=\\n =?us-ascii?Q?gIeHSGkLDslJyrrXOjCuZeuVKKev8WMIkaZkAyQDTPEbG033qHYSyjHwmMYH?=\\n =?us-ascii?Q?YHm9EaKDTICA8XMUwBWstjXxsNKVbaPvk0pebw6aL4r97TRFcadgasMCJlDO?=\\n =?us-ascii?Q?w2PfsVV64IMYhiJ/B1+Oqd3KVa46uhaik5afGEwpMCe5ITqmhyC2hw0jl/s+?=\\n =?us-ascii?Q?SRO0rLw7iqoa05gh9EiZyNchIWsGIhPNMUQpiM3JCoMRdWHfawJ+fPuD9BgJ?=\\n =?us-ascii?Q?ACoSoDdHll4/4ufWvb0O1bfn/BBYLEAoD7Y3QkTXTk5AdgA0GZxfXLWscD10?=\\n =?us-ascii?Q?I8XpC+rRpP7kEWtlAXdzSPrwPdga2icVMjczIynmpqyRjX/bbLDV/HUReA+3?=\\n =?us-ascii?Q?Fsm/V7c7NJiOfR/9ys6zaWVdMAVX/pw1ePTDmcIc605u46056DmYpXLm5KmG?=\\n =?us-ascii?Q?QuufWXKt0k9/7tKdArydDujkdGZbKH/v9IwaipFSDQdbMACQUHSymIVdi4XM?=\\n =?us-ascii?Q?vIB6wuf1eoIRvZeV7qs46HnGvA9Zl/gnmjkzKyBvb3/8btNlH4WnBG/wiDdI?=\\n =?us-ascii?Q?c1IvjHutDJMyNtj96UYTvz1IdD2mMIecSRzCeQtOW4+Guz/gss/IXeralKmv?=\\n =?us-ascii?Q?GhmYNWg6CD5Yl414Fzu4ew+0T5jwMlsywbm+bC3VWyBeATjNYTWAM1XNUMlG?=\\n =?us-ascii?Q?x/ZqrIWQiHkS4mTX3T9tDFNGQRzrHR1sqVscMr0K50Ek/L904tuPBC3gGwqx?=\\n =?us-ascii?Q?B+4pY0JEh/E75q5kKl+JB7Z1U+j0BaPHbMw/7maaMU0Bz5+FWGLWkeHZCwpU?=\\n =?us-ascii?Q?p5a1KmsECV6Y8mGk7O23KG4cyOQXa4Zqp9QbN/86VqM6Qolou8ujKdvs9gpi?=\\n =?us-ascii?Q?IIKHJeEXPFPM9vD41ZKNmXdc95bknv35eU0tKq9V96brHkc/86BUwQJtolw6?=\\n =?us-ascii?Q?EsQUrUSQ=3D=3D?=\\nX-Forefront-PRVS: 0359162B6D\\nX-Microsoft-Exchange-Diagnostics:\\n1;HKNPR02MB0513;23:vbs0ZpkJfOUWaC9rGTCi7QW5t2nQLuHZNYGt0o5v68ILOCNw4mvNBrNP0/nAfyFxB38TC+DOocqLu4oVkDgrtLaKnd04xbmlxjzO7uTJOMvUuBfGQrCS+62O1PA8jJe/Sd6v73WlBKVuWImttxQlN1bWbfOUfYqeBxEzSqRUNfcR4a9JjBnKfMmJPP16U/ouWtajutRJaL1RqsAZShCQsGwGlnMnvEAFGwQc58uQut1U68dn1Y8C+isfPOiwJDnYHfeJmDhK4SVjOS8NwXLHTRgGQlXo5DndzjW0XlJsWfyeuejfNgUcMu3ujyHXEgdsyUt7uGHMN0N4/8nm9sPWM04HynhT9XZerSVNY3AXhx4=\\nX-Microsoft-Exchange-Diagnostics:\\n1;HKNPR02MB0513;6:78He4pj2sg+kRdW8rkaEnQURYf78ky8SH6ycGaosiJAVV6dWaVhziJOpOqFQg2ZQ9wApkjzIZ/Ndho1RnG30uJJVGlyBihkluVj5BRTRo/+oGUeLj78C5Wak6OVM8FeSoTzVViXiOXL9FHY9xy5voaJJnUXYrB+Vr2XR8rs5xL1B8lCOuzorMpdQVTkS3drckrl2tSt2r2XMxpmPisWMsN2Kjp3JU7KTDfsOyluBfq6kXE9EG3iYDL/EL4Wdx+Uli4Tz8Suup8YR2/duGpRXAqtfVgsqF7RH/gWGVuaDfF0GWUgMzE+54Ab0QrZN/gxmqV/pogHNdUNkxuVs/VdA/EhGBBX65eqoD+YlKzSJpbSFmgZGXWGQyG+eCrvbwNe55p3gjD2aC1MxDih2Fbo287NsTs9BwV8PvxLTVoscWnwqcmuNCQkZxqwnAMrJ+o6JbI3+11onoyesSt8w6kAXPuvjm5+aUC+Tkf52BQ94maKK2gKlZZq4pkKQLvq5I2USy9a6G7ExkLlB5o/OldjpjN9E+hGKw73Xm5XyjatFB+kwwGHnMY+9Nu66NeFqlFbVmIwaxlnLdn7a4xoHOd+lXs/Ld1WBzsz58lOGt8fHHAtrdHubKLpl4yv21IEpbkN7ZED9GP0mdI0l1JvHxKHr8ffrTjmbB5J7snLJNmW/lR1RMEAasMyxMdFkzTEZu+9dxRd4fNRvBE7IyfkBvfMArqxLoJrQTWQUiBrXWjRyXg58InWlPINd9FQtw0+6NaqcqyjXHfekNc9a+Ng+JtXVAq9IC+RejMRvyzsRKp298L4+A5fK3Qu+D4dXDdQW9jhapOTFEeTqP9OCtt5WnST1rc8A5MH/G65PNHrPTkkRliY=\\n ]]> </Data></item>
+    </string-array>
+    <string-array name="bad_examples_sender">
+        <item>noone</item>
+    </string-array>
+    <string-array name="bad_examples_recipients">
+        <item>nobody,noone,nonono</item>
+    </string-array>
+</resources>

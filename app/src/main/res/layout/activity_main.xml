@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.easilydo.app.MainActivity"
+    tools:ignore="HardcodedText" >
+
+    <ScrollView
+        android:id="@+id/text_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="515dp"
+        app:layout_constraintBottom_toTopOf="@+id/reload"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:text="Content"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/reply_pos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:text="POS"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:id="@+id/reply_neu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:text="NEU"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:id="@+id/reply_neg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:text="NEG"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:id="@+id/time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:text="Time"
+                android:textColor="@color/colorPrimaryDark" />
+        </LinearLayout>
+    </ScrollView>
+
+
+    <Button
+        android:id="@+id/reload"
+        android:layout_height="wrap_content"
+        android:text="Another One"
+        android:layout_margin="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toLeftOf="@+id/reload_bad"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_width="wrap_content" />
+
+    <Button
+        android:id="@+id/reload_bad"
+        android:layout_height="wrap_content"
+        android:text="Another Bad"
+        android:layout_margin="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="@+id/reload"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_width="wrap_content" />
+
+</android.support.constraint.ConstraintLayout>
